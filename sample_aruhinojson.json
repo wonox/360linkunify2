@@ -1,0 +1,908 @@
+{
+	"東京医科歯科大学": {},
+	"京都大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Kyoto University Library"
+	},
+	"立教大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Rikkyo University",
+		"ssopenurl:linkGroup": {
+			"0": {
+				"ssopenurl:startDate": {
+					"_text": "01/01/1997"
+				},
+				"ssopenurl:providerId": {
+					"_text": "PRVAWR"
+				},
+				"ssopenurl:providerName": {
+					"_text": "Taylor & Francis"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "TFL"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "Taylor & Francis Current Content Access"
+				},
+				"ssopenurl:normalizedData": {
+					"ssopenurl:startDate": {
+						"_text": "1997-01-01"
+					}
+				}
+			},
+			"url": [
+				[
+					{
+						"_attributes": {
+							"type": "source"
+						},
+						"_text": "https://www.tandfonline.com"
+					},
+					{
+						"_attributes": {
+							"type": "article"
+						},
+						"_text": "https://www.tandfonline.com/openurl?genre=article&issn=0193-0826&date=2016&volume=56&issue=2&spage=111"
+					},
+					{
+						"_attributes": {
+							"type": "journal"
+						},
+						"_text": "https://www.tandfonline.com/loi/wjla20"
+					},
+					{
+						"_attributes": {
+							"type": "issue"
+						},
+						"_text": "https://www.tandfonline.com/openurl?genre=journal&issn=0193-0826&volume=56&issue=2"
+					}
+				]
+			]
+		}
+	},
+	"弘前大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Hirosaki University"
+	},
+	"東京農工大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Tokyo University of Agriculture"
+	},
+	"一橋大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "一橋大学 附属図書館 Hitotsubashi University Library",
+		"ssopenurl:linkGroup": {
+			"0": {
+				"ssopenurl:startDate": {
+					"_text": "01/01/1997"
+				},
+				"ssopenurl:providerId": {
+					"_text": "PRVAWR"
+				},
+				"ssopenurl:providerName": {
+					"_text": "Taylor & Francis"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "TFH"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "Taylor & Francis Social Science and Humanities Library【キャンパス外アクセス可】"
+				},
+				"ssopenurl:normalizedData": {
+					"ssopenurl:startDate": {
+						"_text": "1997-01-01"
+					}
+				}
+			},
+			"url": [
+				[
+					{
+						"_attributes": {
+							"type": "source"
+						},
+						"_text": "https://ezproxy.lib.hit-u.ac.jp:8443/login?url=https://www.tandfonline.com"
+					},
+					{
+						"_attributes": {
+							"type": "article"
+						},
+						"_text": "https://ezproxy.lib.hit-u.ac.jp:8443/login?url=https://www.tandfonline.com/openurl?genre=article&issn=0193-0826&date=2016&volume=56&issue=2&spage=111"
+					},
+					{
+						"_attributes": {
+							"type": "journal"
+						},
+						"_text": "https://ezproxy.lib.hit-u.ac.jp:8443/login?url=https://www.tandfonline.com/loi/wjla20"
+					},
+					{
+						"_attributes": {
+							"type": "issue"
+						},
+						"_text": "https://ezproxy.lib.hit-u.ac.jp:8443/login?url=https://www.tandfonline.com/openurl?genre=journal&issn=0193-0826&volume=56&issue=2"
+					}
+				]
+			]
+		}
+	},
+	"東北大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Tohoku University"
+	},
+	"千葉大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Chiba University Library",
+		"ssopenurl:linkGroup": {
+			"0": {
+				"ssopenurl:providerId": {
+					"_text": "PRVLSH"
+				},
+				"ssopenurl:providerName": {
+					"_text": "Library Specific Holdings"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "ABLMV"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "複写取寄せ無料化対象（学内者のみ）"
+				}
+			},
+			"url": []
+		}
+	},
+	"宮崎大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "University of Miyazaki"
+	},
+	"高知大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Kochi University Library"
+	},
+	"東京大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "University of Tokyo",
+		"ssopenurl:linkGroup": {
+			"0": {
+				"ssopenurl:startDate": {
+					"_text": "01/01/1997"
+				},
+				"ssopenurl:providerId": {
+					"_text": "PRVAWR"
+				},
+				"ssopenurl:providerName": {
+					"_text": "Taylor & Francis"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "TFH"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "Taylor & Francis Social Science and Humanities Library"
+				},
+				"ssopenurl:normalizedData": {
+					"ssopenurl:startDate": {
+						"_text": "1997-01-01"
+					}
+				}
+			},
+			"url": [
+				[
+					{
+						"_attributes": {
+							"type": "source"
+						},
+						"_text": "https://www.tandfonline.com"
+					},
+					{
+						"_attributes": {
+							"type": "article"
+						},
+						"_text": "https://www.tandfonline.com/openurl?genre=article&issn=0193-0826&date=2016&volume=56&issue=2&spage=111"
+					},
+					{
+						"_attributes": {
+							"type": "journal"
+						},
+						"_text": "https://www.tandfonline.com/loi/wjla20"
+					},
+					{
+						"_attributes": {
+							"type": "issue"
+						},
+						"_text": "https://www.tandfonline.com/openurl?genre=journal&issn=0193-0826&volume=56&issue=2"
+					}
+				]
+			]
+		}
+	},
+	"筑波大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Tsukuba University"
+	},
+	"同志社大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Doshisha University",
+		"ssopenurl:linkGroup": {
+			"0": {
+				"ssopenurl:startDate": {
+					"_text": "01/01/1997"
+				},
+				"ssopenurl:providerId": {
+					"_text": "PRVAWR"
+				},
+				"ssopenurl:providerName": {
+					"_text": "Taylor & Francis"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "TFH"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "Taylor & Francis Social Science and Humanities Library"
+				},
+				"ssopenurl:normalizedData": {
+					"ssopenurl:startDate": {
+						"_text": "1997-01-01"
+					}
+				}
+			},
+			"url": [
+				[
+					{
+						"_attributes": {
+							"type": "source"
+						},
+						"_text": "https://www.tandfonline.com"
+					},
+					{
+						"_attributes": {
+							"type": "article"
+						},
+						"_text": "https://www.tandfonline.com/openurl?genre=article&issn=0193-0826&date=2016&volume=56&issue=2&spage=111"
+					},
+					{
+						"_attributes": {
+							"type": "journal"
+						},
+						"_text": "https://www.tandfonline.com/loi/wjla20"
+					},
+					{
+						"_attributes": {
+							"type": "issue"
+						},
+						"_text": "https://www.tandfonline.com/openurl?genre=journal&issn=0193-0826&volume=56&issue=2"
+					}
+				]
+			]
+		}
+	},
+	"徳島大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Tokushima University"
+	},
+	"北海道大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Hokkaido University Library - NEW 03.18.2010"
+	},
+	"お茶の水女子大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Ochanomizu University"
+	},
+	"熊本大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Kumamoto University"
+	},
+	" Yale University Library": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Yale University Library",
+		"ssopenurl:linkGroup": {
+			"0": {
+				"ssopenurl:startDate": {
+					"_text": "03/01/2000"
+				},
+				"ssopenurl:endDate": {
+					"_text": "18 months ago"
+				},
+				"ssopenurl:providerId": {
+					"_text": "PRVEBS"
+				},
+				"ssopenurl:providerName": {
+					"_text": "EBSCOhost"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "EDJ"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "Education Research Complete"
+				},
+				"ssopenurl:normalizedData": {
+					"ssopenurl:startDate": {
+						"_text": "2000-03-01"
+					},
+					"ssopenurl:endDate": {
+						"_text": "2020-02-24"
+					}
+				}
+			},
+			"1": {
+				"ssopenurl:startDate": {
+					"_text": "2012"
+				},
+				"ssopenurl:endDate": {
+					"_text": "2020"
+				},
+				"ssopenurl:providerId": {
+					"_text": "PRVAWR"
+				},
+				"ssopenurl:providerName": {
+					"_text": "Taylor & Francis"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "TFW"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "Taylor & Francis Online"
+				},
+				"ssopenurl:normalizedData": {
+					"ssopenurl:startDate": {
+						"_text": "2012-01-01"
+					},
+					"ssopenurl:endDate": {
+						"_text": "2020-12-31"
+					}
+				}
+			},
+			"url": [
+				[
+					{
+						"_attributes": {
+							"type": "source"
+						},
+						"_text": "https://yale.idm.oclc.org/login?URL=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=ehh"
+					},
+					{
+						"_attributes": {
+							"type": "article"
+						},
+						"_text": "https://yale.idm.oclc.org/login?URL=https://openurl.ebscohost.com/linksvc/linking.aspx?genre=article&issn=0193-0826&title=Journal+of+library+administration&date=2016&volume=56&issue=2&spage=111&aulast=Maxwell&aufirst=Dan"
+					},
+					{
+						"_attributes": {
+							"type": "journal"
+						},
+						"_text": "https://yale.idm.oclc.org/login?URL=https://search.ebscohost.com/direct.asp?db=ehh&jid=LIA&scope=site"
+					}
+				],
+				[
+					{
+						"_attributes": {
+							"type": "source"
+						},
+						"_text": "https://yale.idm.oclc.org/login?URL=https://www.tandfonline.com"
+					},
+					{
+						"_attributes": {
+							"type": "article"
+						},
+						"_text": "https://yale.idm.oclc.org/login?URL=https://www.tandfonline.com/openurl?genre=article&issn=0193-0826&date=2016&volume=56&issue=2&spage=111"
+					},
+					{
+						"_attributes": {
+							"type": "journal"
+						},
+						"_text": "https://yale.idm.oclc.org/login?URL=https://www.tandfonline.com/loi/wjla20"
+					},
+					{
+						"_attributes": {
+							"type": "issue"
+						},
+						"_text": "https://yale.idm.oclc.org/login?URL=https://www.tandfonline.com/openurl?genre=journal&issn=0193-0826&volume=56&issue=2"
+					}
+				]
+			]
+		}
+	},
+	"早稲田大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Waseda University Library",
+		"ssopenurl:linkGroup": {
+			"0": {
+				"ssopenurl:providerId": {
+					"_text": "PRVLSH"
+				},
+				"ssopenurl:providerName": {
+					"_text": "Library Specific Holdings"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "AFGNJ"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "PIO（title管理用）"
+				}
+			},
+			"1": {
+				"ssopenurl:startDate": {
+					"_text": "01/01/1997"
+				},
+				"ssopenurl:providerId": {
+					"_text": "PRVAWR"
+				},
+				"ssopenurl:providerName": {
+					"_text": "Taylor & Francis"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "TFH"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "Taylor & Francis Social Science and Humanities Library"
+				},
+				"ssopenurl:normalizedData": {
+					"ssopenurl:startDate": {
+						"_text": "1997-01-01"
+					}
+				}
+			},
+			"url": [
+				[
+					{
+						"_attributes": {
+							"type": "source"
+						},
+						"_text": "https://ez.wul.waseda.ac.jp/login?url=https://www.tandfonline.com"
+					},
+					{
+						"_attributes": {
+							"type": "article"
+						},
+						"_text": "https://ez.wul.waseda.ac.jp/login?url=https://www.tandfonline.com/openurl?genre=article&issn=0193-0826&date=2016&volume=56&issue=2&spage=111"
+					},
+					{
+						"_attributes": {
+							"type": "journal"
+						},
+						"_text": "https://ez.wul.waseda.ac.jp/login?url=https://www.tandfonline.com/loi/wjla20"
+					},
+					{
+						"_attributes": {
+							"type": "issue"
+						},
+						"_text": "https://ez.wul.waseda.ac.jp/login?url=https://www.tandfonline.com/openurl?genre=journal&issn=0193-0826&volume=56&issue=2"
+					}
+				]
+			]
+		}
+	},
+	"琉球大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "University of the Ryukyus Library"
+	},
+	"鹿児島大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Kagoshima University Library"
+	},
+	"上智大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Sophia University Library",
+		"ssopenurl:linkGroup": {
+			"0": {
+				"ssopenurl:startDate": {
+					"_text": "01/01/1997"
+				},
+				"ssopenurl:providerId": {
+					"_text": "PRVAWR"
+				},
+				"ssopenurl:providerName": {
+					"_text": "Taylor & Francis"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "TFH"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "Taylor & Francis SSH Library"
+				},
+				"ssopenurl:normalizedData": {
+					"ssopenurl:startDate": {
+						"_text": "1997-01-01"
+					}
+				}
+			},
+			"url": [
+				[
+					{
+						"_attributes": {
+							"type": "source"
+						},
+						"_text": "https://www.tandfonline.com"
+					},
+					{
+						"_attributes": {
+							"type": "article"
+						},
+						"_text": "https://www.tandfonline.com/openurl?genre=article&issn=0193-0826&date=2016&volume=56&issue=2&spage=111"
+					},
+					{
+						"_attributes": {
+							"type": "journal"
+						},
+						"_text": "https://www.tandfonline.com/loi/wjla20"
+					},
+					{
+						"_attributes": {
+							"type": "issue"
+						},
+						"_text": "https://www.tandfonline.com/openurl?genre=journal&issn=0193-0826&volume=56&issue=2"
+					}
+				]
+			]
+		}
+	},
+	" University of Texas at Austin": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "University of Texas Libraries",
+		"ssopenurl:linkGroup": {
+			"0": {
+				"ssopenurl:startDate": {
+					"_text": "01/01/1998"
+				},
+				"ssopenurl:providerId": {
+					"_text": "PRVAWR"
+				},
+				"ssopenurl:providerName": {
+					"_text": "Taylor & Francis"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "TFW"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "Taylor & Francis Online"
+				},
+				"ssopenurl:normalizedData": {
+					"ssopenurl:startDate": {
+						"_text": "1998-01-01"
+					}
+				}
+			},
+			"1": {
+				"ssopenurl:startDate": {
+					"_text": "03/01/2000"
+				},
+				"ssopenurl:endDate": {
+					"_text": "18 months ago"
+				},
+				"ssopenurl:providerId": {
+					"_text": "PRVEBS"
+				},
+				"ssopenurl:providerName": {
+					"_text": "EBSCOhost"
+				},
+				"ssopenurl:databaseId": {
+					"_text": "-W8"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "Education Source"
+				},
+				"ssopenurl:normalizedData": {
+					"ssopenurl:startDate": {
+						"_text": "2000-03-01"
+					},
+					"ssopenurl:endDate": {
+						"_text": "2020-02-24"
+					}
+				}
+			},
+			"2": {
+				"ssopenurl:startDate": {
+					"_text": "03/01/2000"
+				},
+				"ssopenurl:endDate": {
+					"_text": "18 months ago"
+				},
+				"ssopenurl:providerId": {
+					"_text": "PRVEBS"
+				},
+				"ssopenurl:providerName": {
+					"_text": "EBSCOhost"
+				},
+				"ssopenurl:databaseId": {
+					"_text": ".4I"
+				},
+				"ssopenurl:databaseName": {
+					"_text": "Library & Information Science Source"
+				},
+				"ssopenurl:normalizedData": {
+					"ssopenurl:startDate": {
+						"_text": "2000-03-01"
+					},
+					"ssopenurl:endDate": {
+						"_text": "2020-02-24"
+					}
+				}
+			},
+			"url": [
+				{
+					"_attributes": {
+						"type": "termsOfUse"
+					},
+					"_text": "http://TE7FV6DM8K.search.serialssolutions.com/?V=1.0&L=TE7FV6DM8K&S=TOU&C=JOUROFLIA"
+				},
+				[
+					{
+						"_attributes": {
+							"type": "source"
+						},
+						"_text": "https://ezproxy.lib.utexas.edu/login?url=https://www.tandfonline.com"
+					},
+					{
+						"_attributes": {
+							"type": "article"
+						},
+						"_text": "https://ezproxy.lib.utexas.edu/login?url=https://www.tandfonline.com/openurl?genre=article&issn=0193-0826&date=2016&volume=56&issue=2&spage=111"
+					},
+					{
+						"_attributes": {
+							"type": "journal"
+						},
+						"_text": "https://ezproxy.lib.utexas.edu/login?url=https://www.tandfonline.com/loi/wjla20"
+					},
+					{
+						"_attributes": {
+							"type": "issue"
+						},
+						"_text": "https://ezproxy.lib.utexas.edu/login?url=https://www.tandfonline.com/openurl?genre=journal&issn=0193-0826&volume=56&issue=2"
+					}
+				],
+				[
+					{
+						"_attributes": {
+							"type": "source"
+						},
+						"_text": "https://ezproxy.lib.utexas.edu/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=eue"
+					},
+					{
+						"_attributes": {
+							"type": "article"
+						},
+						"_text": "https://ezproxy.lib.utexas.edu/login?url=https://openurl.ebscohost.com/linksvc/linking.aspx?genre=article&issn=0193-0826&title=Journal+of+library+administration&date=2016&volume=56&issue=2&spage=111&aulast=Maxwell&aufirst=Dan"
+					},
+					{
+						"_attributes": {
+							"type": "journal"
+						},
+						"_text": "https://ezproxy.lib.utexas.edu/login?url=https://search.ebscohost.com/direct.asp?db=eue&jid=LIA&scope=site"
+					}
+				],
+				[
+					{
+						"_attributes": {
+							"type": "source"
+						},
+						"_text": "https://ezproxy.lib.utexas.edu/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=lls"
+					},
+					{
+						"_attributes": {
+							"type": "article"
+						},
+						"_text": "https://ezproxy.lib.utexas.edu/login?url=https://openurl.ebscohost.com/linksvc/linking.aspx?genre=article&issn=0193-0826&title=Journal+of+library+administration&date=2016&volume=56&issue=2&spage=111&aulast=Maxwell&aufirst=Dan"
+					},
+					{
+						"_attributes": {
+							"type": "journal"
+						},
+						"_text": "https://ezproxy.lib.utexas.edu/login?url=https://search.ebscohost.com/direct.asp?db=lls&jid=LIA&scope=site"
+					}
+				]
+			]
+		}
+	},
+	"九州大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Kyushu University Library"
+	},
+	"滋賀医科大学": {},
+	"京都工芸繊維大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "Kyoto Institute of Technology"
+	},
+	"長岡技術科学大学": {},
+	"電気通信大学": {
+		"dc:creator": "Maxwell, Dan",
+		"dc:source": "Journal of library administration",
+		"dc:date": "2016-02",
+		"ssopenurl:issn": "0193-0826",
+		"ssopenurl:eissn": "1540-3564",
+		"ssopenurl:volume": "56",
+		"ssopenurl:issue": "2",
+		"ssopenurl:spage": "111",
+		"ssopenurl:doi": "10.1080/01930826.2015.1105041",
+		"ssopenurl:name": "電気通信大学 附属図書館 (The University of Electro-Communications Library)"
+	}
+}
