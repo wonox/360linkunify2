@@ -1,3 +1,4 @@
+/*
 const fetch = require("node-fetch");
 const convert = require('xml-js');
 const JsonFind = require("json-find");
@@ -5,9 +6,14 @@ const util = require('util');
 var jp = require('jsonpath');
 // https://www.npmjs.com/package/json-find
 // cf.node xml2jsontest5.js -d 10.1080/01930826.2015.1105041 --format json 
-
 const program = require('commander');
 // const { ENGINE_METHOD_PKEY_ASN1_METHS } = require("constants");
+*/
+
+import fetch from 'node-fetch';
+import convert from 'xml-js';
+import JsonFind from 'json-find';
+import jp from 'jsonpath';
 
 /*base URL of libraries' 360Core*/
 const portal = [
