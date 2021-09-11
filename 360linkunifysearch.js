@@ -14,6 +14,7 @@ import fetch from 'node-fetch';
 import convert from 'xml-js';
 import JsonFind from 'json-find';
 import jp from 'jsonpath';
+import program from 'commander';
 
 /*base URL of libraries' 360Core*/
 const portal = [
@@ -176,8 +177,8 @@ function my1(issn) {
 
 /* 引数　-d --doi の時 */
 function my2(doi) {
-     let baseurl = '.openurl.xml.serialssolutions.com/openurlxml?version=1.0&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rft_id=info:doi/';
-     baseurl += doi;
+    let baseurl = '.openurl.xml.serialssolutions.com/openurlxml?version=1.0&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rft_id=info:doi/';
+    baseurl += doi;
     main(baseurl);
 };
 
@@ -228,7 +229,7 @@ function disp_result(arr) {
     if (options.format == 'json') {
         // onsole.log('ここのarr', namae, arr);
         // arr ? onsole.log(util.inspect(arr, {showHidden: false, depth: null})) : "";
-        console.log(JSON.stringify(arr, null , "\t")); // どっちか？
+        console.log(JSON.stringify(arr, null, "\t")); // どっちか？
     } else {
         plotres(arr, "")
     }
@@ -274,7 +275,7 @@ function findVal(object, key) {
                     var x = active[i][k];
                     if (k === key) {
                         found.push(x);
-                     } else if (x && typeof x === "object" &&
+                    } else if (x && typeof x === "object" &&
                         !seen.has(x)) {
                         seen.add(x);
                         new_active.push(x);
